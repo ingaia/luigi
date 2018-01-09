@@ -21,7 +21,7 @@ Luigi is a Python (2.7, 3.3, 3.4, 3.5, 3.6) package that helps you build complex
 pipelines of batch jobs. It handles dependency resolution, workflow management,
 visualization, handling failures, command line integration, and much more.
 
-Getting Startedd
+Getting Started
 ---------------
 
 Run ``pip install luigi`` to install the latest stable version from `PyPI
